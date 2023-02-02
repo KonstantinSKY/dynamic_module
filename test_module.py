@@ -1,1 +1,1 @@
-CONST = "TEST 2vccxvxcvxbdsfdsfdsfdfgfdgdfgsdfdfsc"
+CONST = "TEST 2vccxvxcvxbdsfdsfdsfdfgsc"
