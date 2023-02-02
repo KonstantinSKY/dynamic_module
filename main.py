@@ -1,5 +1,8 @@
 #!/bin/python
 import importlib
+print("""Test import module for dynamic import other module
+            You can check CONST in check module, save module, and push anykey for to see new value))
+        """)
 
 
 if __name__ == '__main__':
